@@ -149,10 +149,7 @@ My academic work focuses on **automated code evaluation**, **semantic source-cod
 <div align="center">
 
 <a href="https://github.com/josepaiva94">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=josepaiva94&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="José Paiva's GitHub Stats" />
-</a>
-<a href="https://github.com/josepaiva94">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=josepaiva94&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=josepaiva94&theme=tokyonight" width="48%" alt="José Paiva's GitHub Stats" />
 </a>
 
 <br /><br />
