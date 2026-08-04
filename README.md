@@ -20,7 +20,7 @@ $ whoami --verbose
 ```
 
 ```yaml
-User: Dr. José Carlos Paiva
+User: José Carlos Paiva
 Title: Solutions Architect & AI Specialist
 Degrees: PhD in Computer Science @ University of Porto
 Roles:
