@@ -145,30 +145,6 @@ My academic work focuses on **automated code evaluation**, **semantic source-cod
 
 ---
 
-## 📊 GitHub Metrics & Insights
-
-<div align="center">
-
-<a href="https://github.com/josepaiva94">
-  <img src="https://github-stats-alpha.vercel.app/api?username=josepaiva94&theme=tokyonight" width="48%" alt="José Paiva's GitHub Stats" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/josepaiva94">
-  <img src="https://streak-stats.demolab.com/?user=josepaiva94&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/josepaiva94">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josepaiva94&theme=tokyo-night" width="97%" alt="Contribution Activity Graph" />
-</a>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I am always open to discussing **Software Architecture**, **AI/RAG Implementations**, **EdTech Research**, or **High-Impact Consultancy**.
